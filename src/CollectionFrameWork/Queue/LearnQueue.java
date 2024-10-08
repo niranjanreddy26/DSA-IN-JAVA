@@ -1,6 +1,4 @@
-package CollectionFrameWork;
-
-import com.sun.security.jgss.GSSUtil;
+package CollectionFrameWork.Queue;
 
 import java.util.LinkedList;
 import java.util.Queue;

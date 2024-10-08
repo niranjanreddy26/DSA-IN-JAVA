@@ -1,4 +1,4 @@
-package CollectionFrameWork;
+package CollectionFrameWork.List;
 
 import java.util.Stack;
 
